@@ -1,0 +1,2 @@
+# manifesto
+IT Manifesto
