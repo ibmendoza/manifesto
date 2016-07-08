@@ -20,4 +20,4 @@ We have more important things to do than squabble about things on the left.
 
 But as always, you can’t please everyone.
 
-- Gani Mendoza
+**Gani Mendoza**
