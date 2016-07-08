@@ -6,13 +6,13 @@ Instead of talking about microservices, just say push-based services.
 
 Instead of talking about RPC, just say pull-based services.
 
-Instead of talking about Agile, just say “anything goes”.
+Instead of talking about Agile, just say ["anything goes"](http://programming-motherfucker.com/).
 
 Instead of talking about thought leaders, just say trolls.
 
-Instead of talking about scalable, just say awesome.
+Instead of talking about [scalable](https://www.youtube.com/watch?v=iquZl-CUR_U), just say [awesome](http://www.goodreads.com/book/show/24737268-badass).
 
-Instead of talking about DevOps, just say Dev/Ops.
+Instead of talking about DevOps, just say [Dev/Ops](https://medium.com/p/dev-ops-not-devops-dc1123fccd97).
 
 Instead of talking, put up or shut up.
 
