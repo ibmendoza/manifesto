@@ -8,7 +8,7 @@ Instead of talking about RPC, just say pull-based services.
 
 Instead of talking about Agile, just say ["anything goes"](http://programming-motherfucker.com/).
 
-Instead of talking about thought leaders, just say trolls.
+Instead of talking about thought leaders, just say diversity of perspectives.
 
 Instead of talking about [scalable](https://www.youtube.com/watch?v=iquZl-CUR_U), just say [awesome](http://www.goodreads.com/book/show/24737268-badass).
 
